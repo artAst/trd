@@ -1,2 +1,1 @@
-# trd
-misc
+# Trade Misc Stuffs
